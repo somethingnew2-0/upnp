@@ -3,7 +3,7 @@ package main
 import (
 	// "bufio"
 	"fmt"
-	"github.com/prestonTao/upnp"
+	"github.com/somethingnew2-0/upnp"
 	// "os"
 )
 
